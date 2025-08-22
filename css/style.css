@@ -1,4 +1,8 @@
 /* appling google font over the website  */
+a{
+    text-decoration: none;
+    color: #211e39;
+}
 body{
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
@@ -384,3 +388,4 @@ footer .link-group a:hover{
     color: #fff;
     animation: pulse 3s infinite;
 }
+
